@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Project-foodsaver/static/css/main.519fc92b.css",
+    "main.js": "/Project-foodsaver/static/js/main.2e46c947.js",
+    "static/js/239.e39fb35b.chunk.js": "/Project-foodsaver/static/js/239.e39fb35b.chunk.js",
+    "static/js/977.4b3215a8.chunk.js": "/Project-foodsaver/static/js/977.4b3215a8.chunk.js",
+    "static/js/455.a9ba13ed.chunk.js": "/Project-foodsaver/static/js/455.a9ba13ed.chunk.js",
+    "static/js/453.03346f77.chunk.js": "/Project-foodsaver/static/js/453.03346f77.chunk.js",
+    "index.html": "/Project-foodsaver/index.html",
+    "main.519fc92b.css.map": "/Project-foodsaver/static/css/main.519fc92b.css.map",
+    "main.2e46c947.js.map": "/Project-foodsaver/static/js/main.2e46c947.js.map",
+    "239.e39fb35b.chunk.js.map": "/Project-foodsaver/static/js/239.e39fb35b.chunk.js.map",
+    "977.4b3215a8.chunk.js.map": "/Project-foodsaver/static/js/977.4b3215a8.chunk.js.map",
+    "455.a9ba13ed.chunk.js.map": "/Project-foodsaver/static/js/455.a9ba13ed.chunk.js.map",
+    "453.03346f77.chunk.js.map": "/Project-foodsaver/static/js/453.03346f77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.519fc92b.css",
+    "static/js/main.2e46c947.js"
+  ]
+}
